@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{DC56A163-6D6F-4B72-A3B6-31BD3113624A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Next-Task/Controllers/TaskController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Task.cs">
     <Files>
       <File FileName="Next-Task/appsettings.json" Line="1" Column="1" />
       <File FileName="Next-Task/Controllers/TaskController.cs" Line="9" Column="15" />
+      <File FileName="Models/Task.cs" Line="32" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
